@@ -1,0 +1,16 @@
+{
+    "metadata":{
+        "name":"ice official devesting repo",
+        "description":"the official ice devtesting repo",
+        "url":"https://github.com/Yrod0200/ice-repo-devtesting/main"
+    },
+    "packages":{
+        "hello-world":{
+            "version":"1.0.0",
+            "description":"A simple Hello, World! written in go!",
+            "url":"https://raw.githubusercontent.com/seunome/ice-repo/main/packages/hello-world/hello-1.0.0.ice.tar.gz",
+            "sha256":"none"
+        }
+
+    }
+}
