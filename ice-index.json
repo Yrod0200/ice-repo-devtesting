@@ -2,7 +2,7 @@
     "metadata":{
         "name":"ice official devesting repo",
         "description":"the official ice devtesting repo",
-        "url":"https://github.com/Yrod0200/ice-repo-devtesting/main"
+        "url":"https://raw.githubusercontent.com/Yrod0200/ice-repo-devtesting/main/ice-index.json"
     },
     "packages":{
         "hello-world":{
